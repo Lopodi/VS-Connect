@@ -11,6 +11,7 @@ namespace GitHubConnectionTest
         static void Main(string[] args)
         {
             //dummy comment
+            //smarty comment    
 
         }
     }
